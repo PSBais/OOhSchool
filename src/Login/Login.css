@@ -1,0 +1,14 @@
+
+.container{
+background-color: #E84864;
+    padding: 60px 30px;
+    border-radius: 8px;
+    max-width:100% !important; 
+    height: 100vh !important;
+}
+.Login{
+    background-color: white;
+    padding:50px;
+    border-radius: 8px;
+    width:20%;
+}
